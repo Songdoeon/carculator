@@ -12,4 +12,8 @@ public class Main {
     System.out.println("하이");
 
 
+    int multi ( int a, int b) {
+        return a * b;
+    }
+
 }
